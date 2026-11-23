@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "zmij",
+  "versions": [
+    {
+      "commit": "7b7cc48b58028e8af7be87e94c0c1c8936f1a57c",
+      "tag": "1.0.23",
+      "parsed_at": "2026-11-23T02:28:22.039559+00:00"
+    }
+  ]
+}
